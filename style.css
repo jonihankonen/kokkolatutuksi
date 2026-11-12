@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f6f5;
+    color: #333;
+    margin: 30px;
+}
+
+h1 {
+    color: #28666e;
+}
+
+h2 {
+    color: #397b83;
+}
+
+nav {
+    background-color: #d5e8e5;
+    padding: 12px;
+    margin-bottom: 20px;
+}
+
+nav a {
+    color: #24545a;
+    text-decoration: none;
+    margin-right: 15px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+p {
+    line-height: 1.6;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+input, textarea {
+    padding: 8px;
+    margin-top: 5px;
+}
